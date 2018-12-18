@@ -1,0 +1,29 @@
+{
+  "name": "simpletypescript",
+  "version": "0.1.0",
+  "description": "My approach to TypeScript from knowing client-side JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patarapolw/SimpleTypeScript.git"
+  },
+  "author": "Pacharapol Withayasakpunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patarapolw/SimpleTypeScript/issues"
+  },
+  "homepage": "https://github.com/patarapolw/SimpleTypeScript#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
+}
