@@ -51,3 +51,9 @@ You will also need to install [TypeScript REPL](https://github.com/HerringtonDar
 npm install -g tsun
 tsun
 ```
+
+## A new environment: Yarn
+
+Learning from <https://exercism.io/my/tracks>. It seems to use Yarn for TypeScript, but NPM for JavasScript...
+
+You can get Yarn here <https://yarnpkg.com/en/>.
